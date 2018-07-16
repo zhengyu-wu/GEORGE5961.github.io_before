@@ -1,124 +1,43 @@
 ---
 layout: post
-title: "Example content"
+title: "都柏林人"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page: About]({{ site.baseurl }}/about).
+断断续续看完了意识流大师詹姆斯·乔伊斯的短篇小说集《都柏林人》，每一篇的篇幅都不长，二十页左右。
 
-There should be whitespace between paragraphs.
+爱尔兰人詹姆斯·乔伊斯最负盛名的作品，无疑是长篇小说《尤利西斯》，据说阅读难度很高，有兴趣可以尝试一下。
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+我其实对小说并不敏感，小学的每个暑假学校的推荐阅读书目总是些大部头中外经典文学著作，消磨了我对小说的好感。那些中文书的作者大多是已经作古的人，照片多是黑白的严肃照片，老气横秋，隐约有一种中国式的智慧，总给我一种长辈的形象，看他们的书总像在被长辈训话，当时实在提不起兴趣。而外国作家的书里总是有奇奇怪怪的人名、地名、物品名，对当时国外的社会环境也并不了解，看完《巴黎圣母院》后整本书我只记得爱斯梅拉达穿长裙的插图。
 
-# [](#header-1)Header 1
+所以大部分长篇小说，我是敬而远之，往前翻三十页去找一个人名，不是什么好的阅读体验。看的最爽的一本长篇小说是《平凡的世界》，那时候完全进入这个平凡的世界，白天课上偷偷看，晚上看到深夜。看到第三部的时候，突然有点难过，觉得这个故事要结束了，而我还不想知道故事结局。我至今仍记得那种高峰体验。
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+说回乔伊斯和《都柏林人》。
 
-## [](#header-2)Header 2
+书中小说的主人公们大多是爱尔兰首都都柏林的小人物，所以小说集取名为《都柏林人》。有公司失意的小职员，有纠结要不要和水手私奔的少女，有街头搭讪姑娘的浪子，有放荡不羁的纨绔子弟，有朴素而羞怯的洗衣妇。
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+印象比较深的一篇是《无独有偶》。主人公弗林顿喜欢喝酒，老板安排的任务看似不可能按时完成，于是索性在上班时间溜出事务所，去小酒吧喝黑啤。喝完之后怕被老板发现，问酒吧掌柜**“要了一颗葛缕子”**。葛缕子可以消除一些酒味，说不定可以不被老板发现。不过精明的老板还是发现了他工作时间溜出去喝酒，自然是劈头盖脸一通臭骂。
 
-### [](#header-3)Header 3
+弗林顿受气逃离公司，当掉了自己的手表，又去买醉。在酒吧他和一个乳臭未乾的小子扳手腕，连输了两局；又见到一个戴大帽子的好看的妇人，却没有更进一步的缘分。走在回家的路上，**弗林顿却一点醉意都没有**。回家之后弗林顿对着老婆孩子一通发脾气，然后故事结束了。
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+这个地方写的秒极了，喝了这么多，夜色这么晚，今晚发生了这么多，弗林顿却一点醉意都没有。这是乔伊斯想要描写的，都柏林人的精神瘫痪。
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+提到乔伊斯，就必然要说到意识流。意识流是一个文学流派，这个流派的作家包括写下《追忆似水年华》的普鲁斯特，包括写下《喧哗与骚动》的威廉·福克纳，包括写下《到灯塔去》的弗吉尼亚·伍尔夫，当然，还有乔伊斯。
 
-#### [](#header-4)Header 4
+所谓意识流，就是让小说人物主观的感受“真实”客观地在出现纸面上，反对传统小说以作者出面介绍人物的身世籍贯和外界环境的形式。所以意识流小说中，有大量的内心独白和内心分析，小说人物所有或荒诞或滑稽的行为似乎都有心理上解释的可能性。
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+很多小说评论家说，海明威语言似白描，但刻意追求白描，就流于片面，有时陷入单调。而另一位作家威廉·福克纳则过于卖弄花样或者修辞，失之矫柔。乔伊斯的语言介于两者之间，十分自然，有点像中国人说的“有话则长，无话则短”，没有故意的简洁，也没有刻意的复杂，所以文字十分微妙。
 
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+乔伊斯的小说里，隐喻也用的很多。比如《两个浪子》中，莱内汉问科利有没有追到姑娘，乔伊斯没有让科利直接回答回答，而是写下这样的结尾：
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+他摆出一副庄重的架势, 向灯光伸出一只手，微笑着，徐徐地摊开手掌······一枚小小的金币在闪烁。
 ```
 
-```
-The final element.
-```
+第一次看到这里，吴老师忍不住想骂人，都看到最后了，还这么磨叽不告诉我追没追到姑娘？？？
+
+后来看评论才知道，这是隐喻。。。。。。具体的金币意象烘托出欢乐的气氛、欣悦的情绪，意思是科利追到姑娘啦。
+
+看完这本书，想去都柏林看看。利菲河流经都柏林市区，河水是黑色，爱尔兰本土的凯尔特人称之为“黑水河”。在凯尔特语中，“都柏林”就是“黑水河”的意思。
+
+想去看看乔伊斯笔下的地名，想去看看格拉芙顿大街，想去看看利菲河。
