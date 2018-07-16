@@ -11,13 +11,27 @@ layout: home
 <div align="center">
 <img src="./myself.png">
 </div>
-
+<br>
 <div align="center">
-Hi, I'm Zhengyu Wu. It's my pleasure to meet you here. 
+Hi, I'm Zhengyu Wu 🤓.  
 </div>
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+<div align="center">
+I'm a bachelor in Shanghai Jiao Tong University and I major in software engineering. 
+</div>
 
-Have a look at the Github page for more information.
+<div align="center">
+📚  🌍  ♠️  🍔  🏋🏻‍♀️  🎸  🍺  🎲  🖥  🏀
+</div>
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+<div align="center">
+I love reading and travelling, basketball and guitar, eating and fitness, drinking and coding. 
+</div>
+
+<div align="center">
+And of course, sleeping 😪. 
+</div>
+
+
+
+
