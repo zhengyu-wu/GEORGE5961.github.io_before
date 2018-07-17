@@ -1,11 +1,52 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: "[读书]阿城"
 categories: misc
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+公众号很久没有更新，不是因为没有继续读书。书一直有看，却自觉尚未建构好自己的知识体系。张佳玮认为读完不忘最好的方法是写读书笔记，常侃读过的内容。想想在理，有空的时候还是要写一点笔记。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+###阿城其人
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+阿城，原名钟阿城。阿城的父母取这个名字的时候，有纪念毛泽东“农村包围城市”成功的寓意在其中。由于文革期间上山下乡很多年，阿城自讽其名取的是反意。
+
+阿城的文字，很世俗老练。好友金坤最近也在读阿城的书，对阿城的风格赞不绝口。读阿城的文字，就觉得他对很多事物看的很透彻。想必也是，经历了这些运动，大抵会对人生有深刻的体悟。
+
+作为一个经常出现在高中语文阅读理解中的男人，阿城的小说和散文都极佳。我看的这本阿城精选集收录了著名 的“三王”小说系列，以及《闲话闲说》等散文。
+
+###“三王”
+
+“三王”系列应该是阿城最有名的作品了，《棋王》《树王》《孩子王》。这三篇小说的时代背景相似，都是发生在共和国那个特定历史时期的故事。
+
+《棋王》讲述了知青“棋呆子”王一生四处寻找对手下棋、拼棋的故事。小说中有一段经典的描写，体现了阿城的文字风格，摘录如下：
+>
+吃得很快，喉节一缩一缩的，脸上绷满了筋。常常突然停下来，很小心地将嘴边或下巴上的饭粒儿和汤水油花儿用整个儿食指抹进嘴里。若饭粒儿落在衣服上，就马上一按，拈进嘴里。若一个没按住，饭粒儿由衣服上掉下地，他也立刻双脚不再移动，转了上身找，吃完以后，他把两只筷子吮净，拿水把饭盒冲满，先将上面一层油花吸净，然后就带着安全到达彼岸的神色小口小口的呷，他对吃是虔诚的，而且很精细。
+
+《棋王》中的一句话道破了棋道，`“为棋不为生，生不可太盛”`。
+
+这句话简直是万能句式，你若是做学问的，可以改成，“为学不为生，生不可太盛”。你若是练武术的，则可以改成“为武不为生，生不可太盛”。这句话可以作为醒世格言，在你世俗成功、癫狂无我之时，念一句“生不可太盛”，入世之心冷静下来。这句话可以作为心灵鸡汤，在你穷困潦倒、失意落魄之时，念一句“生不可太盛”，总归能够聊以自慰，缓解物欲。
+
+《树王》叙述了贵州山民萧疙瘩的故事。他懂山，懂森林，知道森林是山的发肤，但共产当局要砍山林。当森林的树王被砍倒了，人间的树王萧疙瘩也倒了，一病不起，衰竭而死。
+
+《孩子王》讲的是，文革时期，尽责的老师因不与教条合作而被调走，表达了对专制式教育体系的反抗。
+
+阿城认为，儒家是维护社会的秩序，而道家是教你如何在现有秩序之下过的更好。不难看出，在“三王”系列中，很多地方包含了阿城的这些思想。
+
+###阿城的散文
+
+提起阿城的散文，记得有一年的江苏省高考语文阅读理解用了阿城的《溜索》。
+
+讲一些阿城散文中有趣的东西吧。
+
+阿城在一篇谈吃的文章中，提到古人残忍的吃法。
+
+有一道叫`狗肠糯米`的菜，具体做法是：让狗先饿上几天，然后喂狗吃糯米。待到糯米进入狗的小肠时，把狗肠取出来，是为狗肠糯米。好吃的原因大概是糯米中有狗胃的蛋白酶吧，“补得很”。
+
+还有云南的一道叫`烤鹅掌`的菜，把鹅吊起，下置烧红的铁板，鹅轮流放下两只脚掌，痛的哇哇叫。等鹅掌烤熟了，取出来吃。这么做是因为古人相信鹅会把身体里的精华输送到疼痛的部位。
+
+阿城在《闲话闲说》中讲到，佛教传入中国后，带来了许多有头有脸的神，道家感觉到威胁。
+
+于是道教开始了造星运动，积极扩大本土革命队伍。于是我们看到的道教的神，由世俗间的优秀分子组成，比如门神也变成了秦叔宝和尉迟敬德。
+
+有意思的是，那个年代，毛主席逐渐成为道教的神，家家户户用他的像来驱邪避灾。阿城戏谑的说他在目睹一个道教造神的过程。
+

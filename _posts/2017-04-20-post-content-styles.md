@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post content styles"
+title: "[读书]传统下的独白"
 tagline: "This post demonstrates post content styles"
 categories: junk
 image: /thumbnail-mobile.png
@@ -8,83 +8,87 @@ author: "Bart Simpson"
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+李敖上周走了，再上一周我恰好开始看他的《传统下的独白》。
 
-## Some great heading (h2)
+这是一本杂文集，真的很杂，谈及中国传统文化、自己的成长经历、家庭的小故事、对台湾当局的某条法律条文的不满，甚至还有《不讨老婆之“不亦快哉”（三十三则）》这种自乐也逗读者一乐的文章。
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+很遗憾大陆上很多人还不认识李敖，他走的时候没有前几天大家悼念霍金那般热闹。
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+你可能偶然在网上看到他怒喷小S的新闻，听过他和台湾大美人胡茵梦的风流往事，可能也知道他可谓“台湾第一健笔”，写了100本书，其中96本被封。
 
-## Another great heading (h2)
+这都是真实的李敖，反抗传统，放荡不羁，游戏文章，专爱骂人。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+李敖把自己和历史上的离经叛道者类比，阮籍、李贽。他总结了一个很有意思的公式，也是外界看他的眼光。
+>A（行为不检）+B（言论不经）= C（大逆不道）
 
-### Some great subheading (h3)
+李敖经常取笑那些读书读呆掉的学者，写的书看了就想睡觉。
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+口气这么狂，我倒想看看李敖的书是不是很提神。
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+嗬，还真提神。
 
-### Some great subheading (h3)
+我在文字间的笔记大多是，“笑”，“有意思”，“哈哈哈”，“真的自恋”。也并无深意要写下，李敖在文章里写的够清楚了。
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+近日我比平时早起一个小时看这本书，竟终日不觉困意。
 
-> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
+建议把李敖的书和褪黑素捆绑销售，用户体验肯定好。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
+毕竟是传奇，当过兵，坐过牢，李敖的故事太多。
 
-### Some great subheading (h3)
+我还是主要讲讲《传统下的独白》这本书，巩固一下印象，避免一看就丢。
 
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
+## 汉字
+外国人看中国汉字常看的脑袋发晕，原因是每个中国字在他们眼里，都是一幅画。
 
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
+李敖在书中偶尔讲解象形字，我摘出有意思的两个。
 
+上面这个是“为”的象形字，看上去像是一个手牵着一头象。
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+古时候，牵着象不是旅游景点摆拍，象可以用来打仗、做工，所以是“为”。
 
-#### You might want a sub-subheading (h4)
+中国人一直认为象是“南越大兽”，是南亚泰国、缅甸、印度的特有。
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+其实象不是外国货，最早在黄河流域就有。
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+后来黄河流域气候变冷，象才南下出国了，要是现在南下倒是可以作为一带一路的吉祥物。
 
-#### But it's probably overkill (h4)
+谈中国传统不能不提酒吧。上面这个字是“酉”，酿酒的缸。有趣的是这个字的衍生品。
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+陈年老酒从酒窖里搬出来，上面有一层灰，就是下面这个样子。
 
-### Oh hai, an unordered list!!
+这个字也就是“酋”，古意是管酒的官。大家喝到兴起，就要找酋要酒，于是酋就特别受大家拥护和爱戴，于是现在有了酋长的叫法。
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+还没完，再变。刚刚讲到大家拥护酋长，怎么拥护呢，举手拥护，把酋托起来，就是下面这个字，也就是现在“尊重”的尊字。
 
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
+所以，“尊”的上半部是个酒坛子，我们每次尊重尊敬尊师，都要托一下上面的酒坛子，中国传统离不开酒吧。
 
-### Oh hai, an ordered list!!
+## 传统中的荒谬
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+不由感叹，李敖说话的功夫真是厉害。许多传统中显然不合理不理性的东西，他大抵只是嬉笑着开个玩笑。对一些似乎有定论的东西，却有自己的思考和观点。
 
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
+批判中国传统知识分子：
+>没有好的表达法，没有像样的结构，没有不贫乏的新境界，也没有震撼世界的文艺思潮。表达的方式，至多只在一首小诗、一阙小词、一段小令、一篇小品、一个小故事里打滚。
+
+批判中国传统的雅乐：
+>古人重视“乐”教的目的，却想从音乐训练出一批感情收敛、喜怒不形于色、严肃而又严肃的小国民，要用音乐来灌输大量的体制、道德和迷信。
+
+读到这段，是不是一个典型的中国人的形象出现了。
 
 
+## 关于言论自由
 
-## Headings are cool! (h2)
+小心的写这一段，我可不是愤青。
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+作为一个因为言论自由而把牢底坐穿的受害者（也可能受益了），李敖在这个话题上还是很有发言权的。
 
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+“宁鸣而死，不默而生”是范仲淹说的，讲的是谏诤，和言论自由有区别。谏诤是对上级，言论自由的概念没有这个约束。
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+很多人经常对这个话题发表意见，当然更多的是牢骚和抱怨。别犬儒了，有本事学李敖。
+
+不过不可能的，李敖只有一个。
+
+李敖在自己的故事结尾写道：
+
+>像一个卖药游方的孤客，我走到社会里来，十字街头是那样晦暗，我打开背囊，当众吞下了不少苦药。观众们说：“恐怕药太苦了！”我说：“怕什么呢？我吃给你看。我还有一杯毒药！”
+
+不管那些是是非非的争议，李大师总归是一个有才有趣、有情有义的人。“以玩世来醒世,以骂世来救世”，很贴切。
