@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[读书]没有女人的男人们"
+author: "Zhengyu Wu"
 ---
 
 前几天通宵码完大作业，完成一个BASIC解释器，这周末终于有空看看书了。

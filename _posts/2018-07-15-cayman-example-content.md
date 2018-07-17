@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[读书]都柏林人"
+author: "Zhengyu Wu"
 ---
 
 

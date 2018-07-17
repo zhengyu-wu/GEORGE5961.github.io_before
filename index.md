@@ -13,23 +13,39 @@ layout: home
 </div>
 <br>
 <div align="center">
-Hi, I'm Zhengyu Wu 🤓.  
+Hi, I'm Zhengyu Wu 🤓  
 </div>
 
 <div align="center">
-I'm a bachelor in Shanghai Jiao Tong University and I major in software engineering. 
+I'm a bachelor in Shanghai Jiao Tong University 
+</div>
+<div align="center">
+My major is software engineering 
 </div>
 
 <div align="center">
-📚  🌍  ♠️  🍔  🏋🏻‍♀️  🎸  🍺  🎲  🖥  🏀
+📚  🌍  🍔  🎸  🍺 🎲  🖥  🏀  ♣️
+
+
+<div align="center">
+I love reading and travelling
+</div>
+<div align="center">
+
+Basketball and guitar 
 </div>
 
 <div align="center">
-I love reading and travelling, basketball and guitar, eating and fitness, drinking and coding. 
+
+Eating and fitness
+</div>
+ 
+<div align="center">
+Drinking and coding
 </div>
 
 <div align="center">
-And of course, sleeping 😪. 
+And of course, sleeping 😪
 </div>
 
 
