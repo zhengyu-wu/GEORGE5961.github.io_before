@@ -28,13 +28,29 @@ permalink: /album.html
 
 <img  src="./photos/2018/7.jpeg" width="50%" height="50%" />
 
+<br>
 
 # 2017
+
+## China · Wuhai
+
+<img  src="./photos/2017/8.jpeg" width="50%" height="30%" />
+
+<img  src="./photos/2017/9.jpeg" width="50%" height="50%" />
+
+<img  src="./photos/2017/10.jpeg" width="50%" height="50%" />
+
+<img  src="./photos/2017/11.jpeg" width="50%" height="50%" />
+
+<br>
+
 ## Thailand · Bangkok
 
 <img  src="./photos/2017/1.jpg" width="50%" height="50%" />
 
 <img  src="./photos/2017/2.jpg" width="50%" height="30%" />
+
+<br>
 
 ## Thailand · Phuket Island
 
@@ -44,9 +60,29 @@ permalink: /album.html
 
 <img  src="./photos/2017/5.jpg" width="50%" height="50%" />
 
+<br>
+
 ## Thailand · Chiengmai
 
 <img  src="./photos/2017/6.jpg" width="50%" height="50%" />
 
 <img  src="./photos/2017/7.jpg" width="50%" height="50%" />
+
+<br>
+
+## China · Xiamen
+
+<img  src="./photos/2017/12.jpg" width="50%" height="50%" />
+
+<img  src="./photos/2017/13.jpg" width="50%" height="50%" />
+
+<img  src="./photos/2017/14.jpg" width="50%" height="50%" />
+
+<img  src="./photos/2017/15.jpg" width="50%" height="50%" />
+
+<img  src="./photos/2017/16.jpg" width="50%" height="50%" />
+
+<br>
+
+
 
