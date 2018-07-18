@@ -6,7 +6,7 @@ permalink: /album.html
 ---
 
 # 2018
-## USA · Aowa State · Ames
+## USA · Iowa State · Ames
 
 <img  src="./photos/2018/3.jpeg" width="50%" height="50%" />
 
