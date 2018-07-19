@@ -6,7 +6,7 @@ permalink: /album.html
 ---
 
 # 2018
-## USA · Iowa State · Ames
+## USA · Aowa State · Ames
 
 <img  src="./photos/2018/3.jpeg" width="50%" height="50%" />
 
@@ -83,6 +83,35 @@ permalink: /album.html
 <img  src="./photos/2017/16.jpg" width="50%" height="50%" />
 
 <br>
+
+# 2016
+
+## China · Yunnan · Shangri-La
+
+<img  src="./photos/2016/1.jpeg" width="50%" height="50%" />
+
+<img  src="./photos/2016/2.jpeg" width="40%" height="40%" />
+
+<img  src="./photos/2016/3.jpeg" width="50%" height="50%" />
+
+<br>
+
+## China · Yunnan · Dali
+
+<img  src="./photos/2016/4.jpeg" width="50%" height="50%" />
+
+<img  src="./photos/2016/5.jpeg" width="50%" height="50%" />
+
+<br>
+
+## China · Yunnan · Lushui
+
+<img  src="./photos/2016/7.jpeg" width="50%" height="50%" />
+
+<img  src="./photos/2016/6.jpeg" width="50%" height="50%" />
+
+
+
 
 
 
