@@ -9,7 +9,7 @@ How to combine React/React Native and the existing heatmap demo?
 
 ## Awesome JavaScript Libraries for plotting charts
 
-There are many free JavaScript Libraries for plotting charts in web pages, such as [D3js](https://d3js.org/), [HIGHCHART](https://www.highcharts.com/) and [EChart](https://www.highcharts.com/). 
+There are many free JavaScript Libraries for plotting charts in web pages, such as [D3js](https://d3js.org/), [HIGHCHART](https://www.highcharts.com/) and [ECharts](http://echarts.baidu.com/). 
 
 It's very handy to use the APIs of these tools. You can even just download the source code of demos and change the input data.
 
@@ -55,11 +55,19 @@ It's also a long journey to find the suitable dependence to draw the heatmap.
 
 I tried Google map, but it needs a API key and the tutorial on the Internet didn't fit my directory structure. So as the Baidu map.
 
-At last, I turn to my old friend, Echarts, which has the same syntax rules in both React and React Native.
+At last, I turn to my old friend, **Echarts**, which has the same syntax rules in both React and React Native.
 
 Its usage is also babysitting.
 
-All you need do is to add the following sentence in your js file.
+All you need do is to intsall native-echarts and add the specified sentence in your js file.
+
+**STEP 1**:
+
+```
+npm install native-echarts --save
+```
+
+**STEP 2**:
 
 ```
 import Echarts from 'native-echarts';
