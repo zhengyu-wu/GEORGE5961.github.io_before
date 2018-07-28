@@ -32,7 +32,7 @@ permalink: /album.html
 
 # 2017
 
-## China · Wuhai
+## China · Wuhan
 
 <img  src="./photos/2017/8.jpeg" width="50%" height="30%" />
 
