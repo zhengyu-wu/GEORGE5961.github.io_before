@@ -6,6 +6,18 @@ permalink: /album.html
 ---
 
 # 2018
+
+## New Zealand · Auckland
+
+<img  src="./photos/2018/9.jpeg" width="50%" height="50%" />
+
+<img  src="./photos/2018/10.jpeg" width="50%" height="50%" />
+
+<img  src="./photos/2018/11.jpeg" width="50%" height="50%" />
+
+<br>
+
+
 ## USA · Iowa State · Ames
 
 <img  src="./photos/2018/3.jpeg" width="50%" height="50%" />
@@ -32,7 +44,7 @@ permalink: /album.html
 
 # 2017
 
-## China · Wuhan
+## China · Wuhai
 
 <img  src="./photos/2017/8.jpeg" width="50%" height="30%" />
 
