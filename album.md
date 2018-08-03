@@ -9,6 +9,8 @@ permalink: /album.html
 
 ## New Zealand · Auckland
 
+<img  src="./photos/2018/12.jpeg" width="50%" height="50%" />
+
 <img  src="./photos/2018/9.jpeg" width="50%" height="50%" />
 
 <img  src="./photos/2018/10.jpeg" width="50%" height="50%" />
