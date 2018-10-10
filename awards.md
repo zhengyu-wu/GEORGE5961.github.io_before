@@ -2,7 +2,7 @@
 layout: page
 title: Awards
 tagline: Awards I got these years
-permalink: /test.html
+permalink: /awards.html
 ---
 
 * Scholarships
