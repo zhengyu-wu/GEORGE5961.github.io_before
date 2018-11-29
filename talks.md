@@ -9,7 +9,7 @@ permalink: /talk.html
 
 <img  src="https://github.com/GEORGE5961/markdown_photos/blob/master/12.jpeg?raw=true" width="50%" height="50%" />
 
-<img  src="https://github.com/GEORGE5961/markdown_photos/blob/master/13.jpeg?raw=true" width="50%" height="50%" />
+<img  src="https://github.com/GEORGE5961/markdown_photos/blob/master/11.jpeg?raw=true" width="50%" height="50%" />
 
 <img  src="https://github.com/GEORGE5961/markdown_photos/blob/master/9.jpeg?raw=true" width="35%" height="30%" />
 
