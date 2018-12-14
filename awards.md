@@ -7,6 +7,7 @@ permalink: /awards.html
 
 * Scholarships
 	+ Wish Scholarship, 2018
+	+ SJTU Second Prize Scholarship, 2018
 	+ SJTU Second Prize Scholarship, 2016
 	+ SJTU Third Prize Scholarship, 2017
 
