@@ -4,7 +4,7 @@ title: "Bookstore (1) Build a backend service using Springboot"
 author: "Zhengyu Wu"
 ---
 
-I built a bookstore website like Amazon last year. The backend is supported by Struts, Spring, and Hibernate (SSH). Recently, I am reconstructing the website using **Spingboot**. Ideally, an enterprise-level information system. A series of articles will show the information system in detail. You can find the code [here](https://github.com/GEORGE5961/Bookstore).
+I built a bookstore website like Amazon last year. The backend is supported by Struts, Spring, and Hibernate (SSH). Recently, I am reconstructing the website using **Springboot**. Ideally, an enterprise-level information system. A series of articles will show the information system in detail. You can find the code [here](https://github.com/GEORGE5961/Bookstore).
 
 ## What is Struts, Spring, and Hibernate (SSH)?
 
