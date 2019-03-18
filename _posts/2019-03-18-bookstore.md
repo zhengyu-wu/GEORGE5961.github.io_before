@@ -23,7 +23,7 @@ public class democlass{
 * Hibernate: map a class and a table in a database
 	* You never ever bother writing a SQL sentence.
 
-## Springboot
+## Why Springboot?
 
 SSH is an out-dated stuff which has been replaced by Springboot.
 
