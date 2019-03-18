@@ -342,6 +342,36 @@ public class UserServiceImpl implements UserService {
 }
 ```
 
+In application.properties (the only configuration file to connect to MYSQL database):
+
+```
+server.port=8080
+
+# Hibernate 
+#hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
+
+hibernate.show_sql=true
+
+#hibernate.hbm2ddl.auto= update
+
+spring.datasource.url=jdbc:mysql://localhost:3306/bookstore_test
+
+
+spring.datasource.username=root
+
+
+spring.datasource.password=000
+
+
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+
+
+spring.jpa.properties.hibernate.hbm2ddl.auto=update
+
+
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
+```
+
 Finally, I highly recommend you to read the references.
 
 ### Reference
